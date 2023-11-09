@@ -1,0 +1,46 @@
+{
+  "eventId": "a704c1de-07b8-40c4-a112-5b6251c40942",
+  "reqId": "4c6b16a5-477d-45b6-96e2-d10744e75bfd",
+  "leadId": "13a7e284-7ddb-4515-8203-b5c4f94e0a6e",
+  "type": "InputValidation",
+  "version": 1,
+  "data": {
+    "lead": {
+      "affId": 56,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test12@jjjtest.com",
+      "ip": "91.80.29.13",
+      "phone": "+493023890",
+      "password": "ab132546464",
+      "offer": {
+        "name": "bitcoin code",
+        "url": "google.com",
+        "key": "COIN",
+        "description": "this is bitcoin code funnel",
+        "typeId": 1,
+        "lang": "EN"
+      },
+      "extraInfo": {
+        "clickId": "ab-123",
+        "subSource": 20,
+        "affSub_1": "demmy",
+        "affSub_2": "demmy",
+        "affSub_3": "demmy",
+        "affSub_4": "demmy",
+        "affSub_5": "demmy",
+        "affSub_6": "demmy",
+        "affSub_7": "demmy",
+        "affSub_8": "demmy",
+        "affSub_9": "demmy",
+        "affSub_10": "demmy"
+      }
+    },
+    "inputValidation": {
+      "status": false,
+      "msg": "AffId not exist",
+      "data": null
+    }
+  },
+  "createdAt": 1699516816800
+}
